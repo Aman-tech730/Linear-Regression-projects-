@@ -166,7 +166,7 @@ R2Score: 0.19600316173477994
 
 ## Acknowledgments
 
-This project was completed as part of my training at **CETPA Infotech**, under the guidance of **Ray Sir**.
+This project was completed as part of my training at **CETPA Infotech**, under the guidance of **Surbhit Sir**.
 
 ## Repository Structure
 
